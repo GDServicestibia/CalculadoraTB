@@ -1,22 +1,20 @@
 .caixainicial{
-width: 0px;
+width: 70%;
 align-content: center;
-padding: 80px;
 margin: auto;
 background:#e3e3e3;
 }
-body nav ul {
-    padding: 0px!important;
-    padding-left: 70px;
-}
-body nav ul li{
-
-    display: inline-block;
-    margin-left: 20px;
+.zp{
+    height: 80px;
     align-content: center;
 }
+body nav ul li{
+    display: inline-block;
+    margin-left: 20px;
+
+}
 body nav ul li a {
-    float: left;
+    font-size: 30px;
     color: red;
     text-decoration: none;
 }
